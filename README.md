@@ -1,4 +1,4 @@
-# EY FAAS Internship – Credit Scoring Model Project
+# Credit Scoring Model Project
 
 ## Overview
 
